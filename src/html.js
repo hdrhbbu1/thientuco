@@ -68,7 +68,7 @@ export default class HTML extends Component {
 function buildGoogleAdSense() {
   const js = `
   (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: 'ca-pub-6349278739931845',
+    google_ad_client: 'ca-pub-5550737655257349',
     enable_page_level_ads: true
   });
   `;
