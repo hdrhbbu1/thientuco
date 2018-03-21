@@ -8,10 +8,10 @@
 
 module.exports = {
   siteMetadata: {
-    title: 'Ngôi Chùa Xưa',
-    siteUrl: 'http://ngoichuaxua.com',
+    title: 'Thiền Tự Cổ',
+    siteUrl: 'http://thientuco.net',
     rssFeedTitle: 'ngoichuaxua',
-    rssFeedDescription: 'Đoàn Bình và Ngôi Chùa Xưa',
+    rssFeedDescription: 'Đoàn Bình và Thiền Tự Cổ',
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',
